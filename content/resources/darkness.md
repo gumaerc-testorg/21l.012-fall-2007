@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 02ad145c-5e52-0c2b-985d-f19b96ee655f
 resourcetype: Document
 title: darkness.pdf
 uid: 30d54f32-1df8-0e35-15e7-aff9b4fafa4d

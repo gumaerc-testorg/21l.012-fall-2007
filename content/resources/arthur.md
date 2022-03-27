@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 02ad145c-5e52-0c2b-985d-f19b96ee655f
 resourcetype: Document
 title: arthur.pdf
 uid: eff35df8-f7e1-b412-31c4-9f44ab443a90

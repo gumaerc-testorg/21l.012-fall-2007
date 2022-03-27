@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 02ad145c-5e52-0c2b-985d-f19b96ee655f
 resourcetype: Document
 title: odyssey.pdf
 uid: 9cd5e5d8-38d6-c6f3-d504-5c32f273b173
