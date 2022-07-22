@@ -5,6 +5,7 @@ file: /courses/21l-012-forms-of-western-narrative-fall-2007/4cbb28f74efbc7bf8d8c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper2.pdf
 uid: 4cbb28f7-4efb-c7bf-8d8c-dc2e9e2b041b
 ---
 Topics for the second writing assignment.
-

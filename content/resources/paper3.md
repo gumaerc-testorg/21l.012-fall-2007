@@ -5,6 +5,7 @@ file: /courses/21l-012-forms-of-western-narrative-fall-2007/453d11cfb1a72935c34d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper3.pdf
 uid: 453d11cf-b1a7-2935-c34d-3a6ca6426a6d
 ---
 Instructions for the third writing assignment.
-

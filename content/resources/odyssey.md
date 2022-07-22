@@ -5,6 +5,7 @@ file: /courses/21l-012-forms-of-western-narrative-fall-2007/9cd5e5d838d6c6f3d504
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: odyssey.pdf
 uid: 9cd5e5d8-38d6-c6f3-d504-5c32f273b173
 ---
 Lecture notes on The Odyssey, by Homer.
-
