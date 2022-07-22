@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about required texts, the class schedule, a special feature, the course calendar,
+  student work, guidelines, grading policy, principles of assessment, and policy on
+  plagiarism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f319a88c-4d60-ba47-7304-06c189a6d3b9
 ---
