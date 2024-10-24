@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Topics for the second writing assignment.
-file: /courses/21l-012-forms-of-western-narrative-fall-2007/4cbb28f74efbc7bf8d8cdc2e9e2b041b_paper2.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-fall-2007/4cbb28f74efbc7bf8d8cdc2e9e2b041b_paper2.pdf
 file_size: 16243
 file_type: application/pdf
 learning_resource_types:
