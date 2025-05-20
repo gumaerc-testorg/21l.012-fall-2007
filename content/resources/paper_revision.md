@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for the paper revision project.
-file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-fall-2007/35e2cf4f82875f31a35905a929d98ea0_paper_revision.pdf
+file: /courses/21l-012-forms-of-western-narrative-fall-2007/35e2cf4f82875f31a35905a929d98ea0_paper_revision.pdf
 file_size: 17090
 file_type: application/pdf
 learning_resource_types:
