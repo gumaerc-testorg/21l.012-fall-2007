@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to fiction. Why read fiction? What
   do we gain from fiction? What can fiction teach?
-file: /courses/21l-012-forms-of-western-narrative-fall-2007/0aa15409a449bf7561bb85e55033ff92_introduction.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-fall-2007/0aa15409a449bf7561bb85e55033ff92_introduction.pdf
 file_size: 18432
 file_type: application/pdf
 learning_resource_types:
