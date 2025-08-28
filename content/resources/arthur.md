@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on Arthurian romances by Chr?tien de Troyes, King Arthur,
   The Art of Courtly Love, The Knight of the Cart, and the role of women.
-file: /courses/21l-012-forms-of-western-narrative-fall-2007/eff35df8f7e1b41231c49f44ab443a90_arthur.pdf
+file: /ol-ocw-studio-app/courses/21l-012-forms-of-western-narrative-fall-2007/eff35df8f7e1b41231c49f44ab443a90_arthur.pdf
 file_size: 23809
 file_type: application/pdf
 learning_resource_types:
